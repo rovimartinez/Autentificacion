@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224441717320",
+    "project_id": "autentificacionusuario-37bef",
+    "storage_bucket": "autentificacionusuario-37bef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224441717320:android:a35547c5480c1077f27e7d",
+        "android_client_info": {
+          "package_name": "co.edu.unab.prueba_autentificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224441717320-ufupbonsggueatmjos7sh7kgpc16pur1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.edu.unab.prueba_autentificacion",
+            "certificate_hash": "b0fdae85f9b20266b2da832bb8e3833a528423a4"
+          }
+        },
+        {
+          "client_id": "224441717320-k4u7dqtmofggq4qcg93v9ign9f09houn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS5X6HPCqQ7o6Gbsv3zBXym31nyssHZpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224441717320-k4u7dqtmofggq4qcg93v9ign9f09houn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

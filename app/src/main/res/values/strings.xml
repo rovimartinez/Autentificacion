@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prueba_Autentificacion</string>
+    <string name="request_google">
+        224441717320-k4u7dqtmofggq4qcg93v9ign9f09houn.apps.googleusercontent.com</string>
+</resources>
